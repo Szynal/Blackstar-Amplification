@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sound FirmwareVersion="3" CE="1" CS="1" LastModified="23.04.2020 14:12:45">
+  <Amplifier>
+    <Voice>0</Voice>
+    <Gain>120</Gain>
+    <Volume>27</Volume>
+    <Bass>119</Bass>
+    <Middle>50</Middle>
+    <Treble>49</Treble>
+    <ISF>110</ISF>
+    <TVP Status="1">4</TVP>
+  </Amplifier>
+  <EffectsChain Focused="3">
+    <Modulation Position="0" Status="1">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">1</Types>
+      <Adjust1>17</Adjust1>
+      <Adjust2>127</Adjust2>
+      <Level>71</Level>
+      <Rate>9</Rate>
+    </Modulation>
+    <Delay Position="0" Status="1">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">2</Types>
+      <Adjust1>27</Adjust1>
+      <Adjust2>64</Adjust2>
+      <Level>69</Level>
+      <Tempo>519</Tempo>
+    </Delay>
+    <Reverb Position="0" Status="1">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">3</Types>
+      <Adjust1>28</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>109</Level>
+    </Reverb>
+  </EffectsChain>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Info>
+    <Name>GILMOUR DELAY</Name>
+    <Creator>WILL HAMMOND</Creator>
+    <Genre>5</Genre>
+    <SubGenre>32</SubGenre>
+    <SearchTags>WILL HAMMOND; PINK FLOYD; LEAD; DAVID GILMOUR; GILMOUR; SOLO</SearchTags>
+    <About>GREAT GILMOUR LEAD TONES. FANTASTIC FOR "TIME" AND "COMFORTABLY NUMB (SECOND SOLO)". UPDATED FROM PREVIOUS PATCH AS DELAY, REVERB AND CHORUS EFFECTS HAVE BEEN TWEAKED TO MATCH UP FOR A BETTER LEAD TONE. ENJOY</About>
+  </Info>
+</Sound>

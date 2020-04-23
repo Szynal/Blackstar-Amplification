@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sound FirmwareVersion="1" CE="1" CS="1" LastModified="15-01-19 1:06:24 AM +00:00">
+  <Amplifier>
+    <Voice>1</Voice>
+    <Gain>26</Gain>
+    <Volume>43</Volume>
+    <Bass>127</Bass>
+    <Middle>127</Middle>
+    <Treble>127</Treble>
+    <ISF>127</ISF>
+    <TVP Status="0">0</TVP>
+  </Amplifier>
+  <EffectsChain Focused="2">
+    <Modulation Position="0" Status="1">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">2</Types>
+      <Adjust1>16</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>127</Level>
+      <Rate>0</Rate>
+    </Modulation>
+    <Delay Position="0" Status="1">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">3</Types>
+      <Adjust1>10</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>94</Level>
+      <Tempo>100</Tempo>
+    </Delay>
+    <Reverb Position="0" Status="1">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">1</Types>
+      <Adjust1>20</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>74</Level>
+    </Reverb>
+  </EffectsChain>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Info>
+    <Name>ACOUSTIC SOUND</Name>
+    <Creator>LARRY KAFKA</Creator>
+    <Genre>13</Genre>
+    <SubGenre>13</SubGenre>
+    <SearchTags>NA</SearchTags>
+    <About>ACOUSTIC WITH REV, HALL</About>
+  </Info>
+</Sound>
